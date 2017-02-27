@@ -1,0 +1,33 @@
+
+
+WORD (Pairs) 
+w**w’		Prob
+for**the	0.13569362	
+for**her	0.07439041	
+for**a		0.06846673	
+for**it		0.029893925	
+for**his	0.029067365	
+for**him	0.024108004	
+for**me		0.020801764	
+for**you	0.020664003	
+for**i		0.020250723	
+for**my		0.017908802	
+
+Raw output for this (Among other words) is in A.WordCount/zz_OtherSupportingItems/output2/pairs/results/part-r-00000	
+
+
+WORD (STRIPES)
+w**w’		Prob		
+for**the	0.13569362	
+for**her	0.07439041	
+for**a		0.06846673	
+for**it		0.029893925	
+for**his	0.029067365	
+for**him	0.024108004	
+for**me		0.020801764	
+for**you	0.020664003	
+for**i		0.020250723	
+for**my		0.017908802	
+
+Raw output for this (Among other words) is in A.WordCount/zz_OtherSupportingItems/output2/stripes/results\part-r-00002
+	

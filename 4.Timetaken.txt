@@ -1,0 +1,20 @@
+WORD (Pairs) 
+1 Master Node (m3.xlarge), 1 Core Node (m3.2xlarge)
+My Jobs completed in 1 minutes (Under Custom Jar Steps in screenshot)
+Job 1: 8 Mappers, 5 reducers
+Job 2: 5 Mappers, 5 reducers
+
+WORD (STRIPES)
+1 Master Node (m3.xlarge), 1 Core Node(m3.2xlarge)
+My Jobs completed in 1 minutes (Under Custom Jar Steps in screenshot)
+Job 1: 8 Mappers, 5 reducers
+Job 2: 5 Mappers, 5 reducers
+
+
+TIME TAKEN TO WORK ON PROBLEMS
+- Approximately 40 hours for WORD assignment
+- Time distribution estimated as follows
+	- 20% - Reading up and understanding problem topic
+	- 20% - Experimenting Hadoop coding on Java (And Python in the beginning)
+	- 50% - Implement solution locally (Include testing and debugging)
+	- 10% - Running on EMR (Include testing and debugging)
